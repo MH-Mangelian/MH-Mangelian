@@ -1,9 +1,10 @@
 <h2>Hi 🤚 I'm Mohammad Hossein Mangelian</h2>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 📫 How to reach me **h.m.mnglean@gmail.com**
+- 📫 Email **h.m.mnglean@gmail.com**
+- ✉️ reach me on Telegram <a href="https://t.me/MangelianMH">@MangelianMH<a/>
 
-<h3 align="left">Connect with me: <span>https://twitter.com/Mohammadmangeli</span></h3>
+
 <p align="left">
 </p>
 
