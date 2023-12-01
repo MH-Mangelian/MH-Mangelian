@@ -3,7 +3,9 @@
 
 - 📫 Email **h.m.mnglean@gmail.com**
 - ✉️ reach me on Telegram <a href="https://t.me/MangelianMH">@MangelianMH<a/>
-
+<a href="https://www.codewars.com/users/MH-Mangelian" target="_blank">
+<img src="https://www.codewars.com/users/MH-Mangelian/badges/large" alt="codewars.com" />
+</a>
 
 <p align="left">
 </p>
